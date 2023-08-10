@@ -1,0 +1,1 @@
+zenity --info --title="LB42OS'a Hoşgeldiniz" --text="Bu Sürüm LB42OS'un BETA Sürümüdür İçerisinde Belirli Eksiklikler Olabilir"
